@@ -20,12 +20,12 @@
       <repository>
         <id>releases</id>
         <name>Internal Releases</name>
-        <url>file://tmp/releases</url>
+        <url>file:///tmp/releases</url>
       </repository>
       <snapshotRepository>
         <id>snapshots</id>
         <name>Internal Snapshots</name>
-        <url>file://tmp/snapshots</url>
+        <url>file:///tmp/snapshots</url>
       </snapshotRepository>
     </distributionManagement>
 </project>
