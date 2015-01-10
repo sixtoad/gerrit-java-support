@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.sixtoad.develop</groupId>
   <artifactId>gerrit-support</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2-maven_configuration-SNAPSHOT</version>
   <packaging>pom</packaging>
 <build>
     <plugins>
