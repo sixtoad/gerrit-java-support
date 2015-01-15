@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.github.sixtoad.develop</groupId>
     <artifactId>gerrit-support</artifactId>
-    <version>0.0.2-maven_configuration-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
   <artifactId>jgit-gerrit</artifactId>
   <name>Integration with jgit</name>
