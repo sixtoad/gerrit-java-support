@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.github.sixtoad.develop</groupId>
     <artifactId>gerrit-support</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2-docker_gerrit_suport-SNAPSHOT</version>
   </parent>
   <artifactId>doc</artifactId>
   <packaging>pom</packaging>
