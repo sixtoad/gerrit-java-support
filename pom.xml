@@ -238,5 +238,6 @@
 	</distributionManagement>
 	<modules>
 		<module>jgit-gerrit</module>
+		<module>doc</module>
 	</modules>
 </project>
